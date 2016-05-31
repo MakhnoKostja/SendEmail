@@ -4,4 +4,6 @@
     <string name="themePost">Тема письма</string>
     <string name="textPost">Текст письма</string>
     <string name="emailText">Введите текст письма...</string>
+    <string name="javaMailBtn">Отправить с помощью JavaMail</string>
+    <string name="clientBtn">Отправить с помощью Email клиента Android</string>
 </resources>
