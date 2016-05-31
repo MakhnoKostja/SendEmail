@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SendEmail</string>
+    <string name="emailToText">Введите Email получателя</string>
 </resources>
