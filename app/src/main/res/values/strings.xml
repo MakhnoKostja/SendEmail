@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">SendEmail</string>
     <string name="emailToText">Введите Email получателя</string>
+    <string name="themePost">Тема письма</string>
+    <string name="textPost">Текст письма</string>
+    <string name="emailText">Введите текст письма...</string>
 </resources>
